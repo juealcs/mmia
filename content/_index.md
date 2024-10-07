@@ -90,6 +90,7 @@ sections:
               
  
               <span style="font-size: 1.5em;">Journal Reviewer</span>
+              * <strong>IEEE TIFS</strong>: Served as a reviewer for IEEE Transactions on Information Forensics & Security.
               * <strong>IEEE TVT</strong>: Served as a reviewer for IEEE Transactions on Vehicular Technology.
               * <strong>IEEE TCE</strong>: Served as a reviewer for IEEE Transactions on Consumer Electronics.
               * <strong>Springer Nature</strong>: Served as a reviewer for the Springer Nature journal.
