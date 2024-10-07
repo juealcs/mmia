@@ -93,7 +93,7 @@ sections:
               * <strong>IEEE TIFS</strong>: Served as a reviewer for IEEE Transactions on Information Forensics & Security.    
               * <strong>IEEE TVT</strong>: Served as a reviewer for IEEE Transactions on Vehicular Technology.
               * <strong>IEEE TCE</strong>: Served as a reviewer for IEEE Transactions on Consumer Electronics.
-              * <strong>Springer Nature</strong>: Served as a reviewer for the Springer Nature journal.
+              * <strong>Springer Nature</strong>: Served as a reviewer for the Springer Nature journal. 
     
               <span style="font-size: 1.5em;">Conference Reviewer</span>
               * <strong>ICDCS 2024</strong>: Served as a reviewer for the 44th IEEE International Conference on Distributed Computing Systems, Jersey City, New Jersey, USA.
