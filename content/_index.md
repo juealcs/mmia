@@ -7,8 +7,7 @@ sections:
     id: about
     content:
       title: Biography
-      username: admin
-  
+      username: admin  
   - block: experience
     id: experience
     content:
