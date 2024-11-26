@@ -8,7 +8,7 @@ Hello, fellow ML and security enthusiasts!
 
 I'm seeking team members to collaborate on research in the fields of **secure federated learning**, **distributed machine learning**, and **privacy-preserving techniques**. Our research will focus on enhancing system security, reducing communication overhead, and leveraging machine learning to address real-world problems in these domains.
 ## Research Areas
-- **Secure Federated Learning**: Developing federated learning models that integrate secure techniques.
+- **Secure Federated Learning**: Developing federated learning mechanism that integrate secure techniques.
 - **Security and Privacy in Federated Learning and Machine Learning**: Innovating methods to secure distributed machine learning environments, ensuring data integrity and protection in intelligent systems.
 - **Intelligent Systems**: Applying privacy-preserving machine learning techniques, to enhance security in autonomous systems.
 
