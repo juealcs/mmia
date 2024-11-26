@@ -3,10 +3,10 @@ title: Looking for Teammates to Collaborate
 date: '2024-08-30'  
 draft: false  
 ---
+Will collaborate in future. This page is in progress.
+<!--Hello, fellow ML and security enthusiasts!
 
-Hello, fellow ML and security enthusiasts!
-
-I'm seeking team members to collaborate on research in the fields of **secure federated learning**, **distributed machine learning**, and **privacy-preserving techniques**. Our research will focus on enhancing system security, reducing communication overhead, and leveraging machine learning to address real-world problems in these domains.
+<!--I'm seeking team members to collaborate on research in the fields of **secure federated learning**, **distributed machine learning**, and **privacy-preserving techniques**. Our research will focus on enhancing system security, reducing communication overhead, and leveraging machine learning to address real-world problems in these domains.
 <!--
 ## Research Areas
 - **Secure Federated Learning**: Developing federated learning mechanism that integrate secure technique.
