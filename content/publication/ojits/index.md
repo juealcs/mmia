@@ -32,7 +32,7 @@ abstract: Federated Learning is a decentralized machine learning technique that 
 summary: A hybrid privacy-preserving algorithm combining Pre-Aggregation Similarity Measurement (PA-SM) and Differential Privacy (DP) enhances the security and resilience of Federated Learning (FL) in Intelligent Transportation Systems (ITS) by defending against adversarial attacks while maintaining model performance.
 
 tags:
-  - Privacy and security 
+  - Privacy and security
   - Federated Learning
   - Machine Learning
 
