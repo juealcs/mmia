@@ -69,40 +69,55 @@ sections:
   - block: accomplishments
     id: accomplishments
     content:
+        - block: accomplishments
+    id: accomplishments
+    content:
       title: 'Achievements, Awards, and Services'
       date_format: Jan 2006
       items:
-        - date_end: '2024-12-31'
-          date_start: '2013-01-26'
+        - date_end: '2025-12-31'
+          date_start: '2010-01-01'
           description: |2-
               <span style="font-size: 1.5em;">**Research Awards:**</span>
-              * Received best paper award from the Third International Conference on Smart Systems: Innovations in Computing (SSIC), Springer, 2021.
-
+              * Best Paper Award at the Third International Conference on Smart Systems: Innovations in Computing (SSIC), Springer (2021).
 
               <span style="font-size: 1.5em;">**Scholarships:**</span>
-              * Received university yearly scholarship for outstanding results.
-              * Received scholarship for achieving the top position in the undergraduate entrance exam.
-              
+              * University Scholarship for Outstanding Academic Performance (2010–2014).
+              * Undergraduate Entrance Exam Scholarship for achieving the top position (2010–2011).
+
+              <span style="font-size: 1.5em;">**Awards, Fellowships, & Grants:**</span>
+              * Publication Grant (Journal) — University Graduate School, Florida International University (2024, 2025).
+              * Travel Grant (Conference) — University Graduate School & Knight Foundation School of Computing and Information Sciences (KFSCIS), FIU (2024, 2025).
+              * Recognition for Scholarly Publications in Reputed Indexed Journals — Daffodil International University (2020, 2021, 2022).
+              * Best Performer-2018 — Dept. of CSE, Daffodil International University (2018).
+
               <span style="font-size: 1.5em;">**Academic Contributions:**</span><br>
               <span style="font-size: 1.5em;">Committee Member</span>
-              * <strong>IJCACI 2020</strong>: Served as a organizing committee member for International Joint Conference on Advances in Computational Intelligence, Daffodil International University, Bangladesh; Jahangirnagar University, Bangladesh and South Asian University, India
+              * IJCACI 2020 — Organizing Committee, Daffodil International University, Bangladesh; Jahangirnagar University, Bangladesh; South Asian University, India.
+              * 22nd ICPC (2018) — Organizing Committee, Daffodil International University.
 
-              
- 
-              <span style="font-size: 1.5em;">Journal Reviewer</span>
-              * <strong>IEEE TIFS</strong>: Served as a reviewer for IEEE Transactions on Information Forensics & Security.    
-              * <strong>IEEE TVT</strong>: Served as a reviewer for IEEE Transactions on Vehicular Technology.
-              * <strong>IEEE TCE</strong>: Served as a reviewer for IEEE Transactions on Consumer Electronics.
-              * <strong>Springer Nature</strong>: Served as a reviewer for the Springer Nature journal. 
-    
-              <span style="font-size: 1.5em;">Conference Reviewer</span>
-              * <strong>ICDCS 2024</strong>: Served as a reviewer for the 44th IEEE International Conference on Distributed Computing Systems, Jersey City, New Jersey, USA.
-              * <strong>MIDAS 2021</strong>: Served as a reviewer for the International Conference on Machine Intelligence and Data Science Applications (MIDAS 2021), Springer, Comilla University, Cumilla, Bangladesh.
-              * <strong>IJCACI 2020</strong>: Served as a reviewer for International Joint Conference on Advances in Computational Intelligence, Daffodil International University, Bangladesh; Jahangirnagar University, Bangladesh and South Asian University, India    
+              <span style="font-size: 1.5em;">**Professional Development:**</span>
+              * “Road to Research Duration” — Faculty research training, Dept. of CSE, Daffodil International University (26 Dec 2018).
+              * “Machine Learning and AI” — Faculty workshop with SIGMOID, DIU (5–6 May 2018).
+              * “How to Prepare a Good Research Proposal?” — Faculty workshop, DIU (17 Dec 2017).
+              * “Participatory Engaging Techniques (PET)” — Teacher training, DIU (2017).
+
+              <span style="font-size: 1.5em;">**Journal Reviewer**</span>
+              * IEEE Transactions on Information Forensics and Security (TIFS) — <strong>Impact Factor: 6.3</strong>.
+              * IEEE Transactions on Vehicular Technology (TVT) — <strong>Impact Factor: 6.1</strong>.
+              * IEEE Transactions on Consumer Electronics (TCE) — <strong>Impact Factor: 4.3</strong>.
+              * IEEE Transactions on Machine Learning in Communications and Networking Information (TMLCN).
+              * Springer Nature Journal.
+
+              <span style="font-size: 1.5em;">**Conference Reviewer**</span>
+              * IEEE ICDCS 2024 — 44th International Conference on Distributed Computing Systems, Jersey City, NJ, USA.
+              * MIDAS 2021 — International Conference on Machine Intelligence and Data Science Applications, Springer, Comilla University, Bangladesh.
+              * IJCACI 2020 — International Joint Conference on Advances in Computational Intelligence, DIU, JU, SAU.
+
           url: ''
-      
     design:
       columns: '2'
+
   - block: portfolio
     id: projects
     content:
