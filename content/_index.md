@@ -153,7 +153,6 @@ sections:
     design:
       view: compact
       columns: '2'
-
   - block: about.skills
     id: skills
     content:
