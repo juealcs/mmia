@@ -8,7 +8,7 @@ authors:
 date: '2024-08-08T00:00:00Z'
 doi: 'https://doi.org/10.48550/arXiv.2509.20223'
 
-publication_types: ['article-journal']
+publication_types: ['Conference-paper']
 
 publication: i3ce, 2024 ASCE International Conference on Computing in Civil Engineering
 publication_short: i3ce, 2024
