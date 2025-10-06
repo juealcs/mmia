@@ -34,7 +34,6 @@ summary: A hybrid privacy-preserving algorithm combining Pre-Aggregation Similar
 tags:
   - Privacy and security 
   - Federated Learning
-  - Large Language Model
   - Machine Learning
 
 # Display this page in the Featured widget?
