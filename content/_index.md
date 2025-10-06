@@ -153,45 +153,7 @@ sections:
     design:
       view: compact
       columns: '2'
-  - block: about.skills
-    id: skills
-    content:
-      title: Skills
-      username: admin         # must match your author folder name
-      skills:
-        - name: Technical
-          items:
-            - name: Python
-              percent: 100
-              icon: python
-              icon_pack: fab
-            - name: Data Science
-              percent: 100
-              icon: chart-line
-              icon_pack: fas
-            - name: SQL
-              percent: 40
-              icon: database
-              icon_pack: fas
-        - name: Hobbies
-          color: '#eeac02'
-          color_border: '#f0bf23'
-          items:
-            - name: Hiking
-              percent: 60
-              icon: person-hiking
-              icon_pack: fas
-            - name: Cats
-              percent: 100
-              icon: cat
-              icon_pack: fas
-            - name: Photography
-              percent: 80
-              icon: camera-retro
-              icon_pack: fas
-    design:
-      columns: "2"
-
+  
   - block: tag_cloud
     content:
       title: Popular Topics
