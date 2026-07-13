@@ -104,6 +104,7 @@ sections:
 
               <span style="font-size: 1.5em;">**Journal Reviewer**</span>
               * IEEE Transactions on Information Forensics and Security (TIFS) — <strong>Impact Factor: 6.3</strong>.
+              * IEEE Transactions on Dependable and Secure Computing (TDSC) — <strong>Impact Factor: 6.8</strong>.
               * IEEE Transactions on Vehicular Technology (TVT) — <strong>Impact Factor: 6.1</strong>.
               * IEEE Transactions on Consumer Electronics (TCE) — <strong>Impact Factor: 4.3</strong>.
               * IEEE Transactions on Machine Learning in Communications and Networking Information (TMLCN).
