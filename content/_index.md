@@ -93,6 +93,7 @@ sections:
 
               <span style="font-size: 1.5em;">**Academic Contributions:**</span><br>
               <span style="font-size: 1.5em;">Committee Member</span>
+              * ICTAI 2026 — Program Committee, The 38th IEEE International Conference on Tools with Artificial Intelligence (ICTAI), Boca Raton, Florida.
               * IJCACI 2020 — Organizing Committee, Daffodil International University, Bangladesh; Jahangirnagar University, Bangladesh; South Asian University, India.
               * 22nd ICPC (2018) — Organizing Committee, Daffodil International University.
 
