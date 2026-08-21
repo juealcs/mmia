@@ -100,7 +100,7 @@ social:
     link: https://www.linkedin.com/in/md-jueal-mia-723ba4ba/
   - icon: cv
     icon_pack: ai
-    link: static/uploads/mia_resume.pdf
+    link: uploads/mia_resume.pdf
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
