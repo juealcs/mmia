@@ -104,7 +104,6 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
 **Md. Jueal Mia** received the B.S. and M.S. degrees in Computer Science and Engineering from Jahangirnagar University, Bangladesh. He is currently pursuing the Ph.D. degree in Computer Science at the Knight Foundation School of Computing and Information Sciences, Florida International University (FIU), where he serves as a Graduate Research Assistant in the Security, Optimization, and Learning for Interdependent Networks (solid) Laboratory. Before joining FIU, he served as a faculty member in the Department of Computer Science and Engineering at Daffodil International University, Bangladesh, for more than six years. He has authored more than 40 peer-reviewed journal and conference publications in trustworthy AI, federated learning, and foundation models. His research interests include **Trustworthy AI, AI Security, Foundation Models, Large Language Models, Vision-Language Models, Agentic AI, Federated Learning, Privacy-Preserving Machine Learning, and Adversarial Machine Learning**, with a focus on developing secure, reliable, and privacy-preserving AI systems.
 
 
